@@ -1,250 +1,147 @@
 <div align="center">
 
-  <!-- DYNAMIC WAVING HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=230&section=header&text=Frank%20Emiliano%20Vargas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingenier%C3%ADa%20de%20Sistemas%20e%20Inform%C3%A1tica%20%E2%80%A2%20Software%2C%20Cloud%20%26%20AI%20Developer&descFontSize=16&descAlignY=62" width="100%" alt="Header Banner"/>
+# ⚡ Frank Emiliano Vargas Huamán
+### 🚀 Estudiante de Ingeniería de Sistemas e Informática (UTP, 7mo Ciclo) &middot; Software & Agentic AI Developer
 
-  <!-- DYNAMIC ANIMATED TYPING SVG -->
-  <a href="https://github.com/frankitoromas-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=Full-Stack+%26+Software+Developer;Spring+Boot+3+%2B+JPA%2FHibernate+%2B+MySQL;Agentes+de+IA+Personalizados+%2B+MCP+%2B+RAG;Next.js+%2B+React+%2B+TypeScript+%2B+TailwindCSS;Java+17+POO%2C+Patrones+GoF+%26+Grafos+Dijkstra;Cisco+Packet+Tracer+%26+Automatizaci%C3%B3n+de+Redes" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/frankosyni-undefined-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Frank_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:frank5vargashuaman@gmail.com"><img src="https://img.shields.io/badge/Email-frank5vargashuaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20sobre%20oportunidades%20laborales"><img src="https://img.shields.io/badge/WhatsApp-(%2B51)_906_740_940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://github.com/frankitoromas-tech"><img src="https://img.shields.io/badge/GitHub-frankitoromas--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-  <br/><br/>
+<p align="center">
+  📍 <strong>Lima, Perú (SJL)</strong> &nbsp;|&nbsp; 
+  🎯 <strong>Buscando Prácticas Pre-Profesionales:</strong> Desarrollo Backend, Full-Stack, IA Agéntica & Soporte TI &nbsp;|&nbsp; 
+  🟢 <strong>Disponibilidad Inmediata</strong>
+</p>
 
-  <!-- SOCIAL BADGES & QUICK CONNECT -->
-  <a href="https://www.linkedin.com/in/frankosyni-undefined-6a010a378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:frank5vargashuaman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/frankitoromas-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/UTP-7mo_Ciclo-1d4ed8?style=for-the-badge" alt="UTP"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Buscando%20Pr%C3%A1cticas%20TI-10B981?style=for-the-badge" alt="Status"/>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=frankitoromas-tech&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+---
 
 </div>
 
-<br/>
+## 🧠 Sobre Mí & Enfoque de Ingeniería
+
+Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)** cursando el 7mo ciclo (2026-II, turno noche, disponibilidad diurna). Cuento con una sólida formación en desarrollo backend con **Java 17 (Spring Boot 3, Spring Data JPA/Hibernate, Patrones GoF y arquitectura MVC/DAO)** y bases de datos relacionales (**MySQL 8.x, PostgreSQL**).
+
+Mi mayor pasión profesional e investigativa radica en comprender y construir el funcionamiento interno de **IAs Agénticas y Arquitecturas Cognitivas**:
+- 🔄 **Agentic Loops & Reasoning:** Diseño de lazos de ejecución autónomos, cadenas de razonamiento (*Chain-of-Thought*), presupuesto dinámico de tokens y persistencia episódica.
+- 🔌 **Model Context Protocol (FastMCP):** Desarrollo e integración de servidores MCP para dotar a los modelos de lenguaje de capacidades de ejecución sobre terminales sandboxeadas y automatización de redes Cisco Packet Tracer.
+- 📚 **RAG Vectorial & Ingesta Multidisciplinar:** Pipelines de chunking jerárquico, generación de embeddings y búsqueda semántica sobre bibliotecas técnicas y científicas.
+- 🛡️ **Seguridad & Sandboxing:** Motores de permisos (*Allow / Ask / Deny*) basados en análisis semántico de argumentos, prevención de fuga de secretos (*Agent Shield*) y protección contra *Path Traversal*.
 
 ---
 
-### 👨‍💻 Sobre Mí & Perfil Profesional
+## 🛠️ Stack Tecnológico & Competencias
 
-👋 ¡Hola y bienvenido a mi perfil de GitHub! Soy **Frank Emiliano Vargas Huamán**, estudiante de **Ingeniería de Sistemas e Informática** en el **7mo ciclo** de la **Universidad Tecnológica del Perú (UTP)** en Lima, Perú.
-
-Desarrollador de software con experiencia práctica en arquitecturas backend empresariales (**Java / Spring Boot 3**), desarrollo de **Agentes de IA autónomos y sistemas RAG con Model Context Protocol (MCP)**, frontend moderno (**Next.js / React / TypeScript**) e infraestructura de redes (**Cisco Packet Tracer**).
-
-```yaml
-desarrollador:
-  nombre: Frank Emiliano Vargas Huamán
-  carrera: Ingeniería de Sistemas e Informática (UTP - 7mo Ciclo)
-  correo: frank5vargashuaman@gmail.com
-  ubicación: Lima, Perú (San Juan de Lurigancho)
-  áreas_clave:
-    - Backend: Java 17, Spring Boot 3, JPA/Hibernate, Patrones GoF, REST APIs
-    - IA & Agentes: Sistemas RAG, Model Context Protocol (MCP), Knowledge Bases de Libros/Docs, AI Workflows
-    - Frontend: Next.js (App Router), React, TypeScript, Tailwind CSS, JavaScript ES6+
-    - Redes & Infra: Cisco Packet Tracer 9.0, Subnetting IPv4/IPv6, Automatización de Topologías
-    - Databases & Cloud: MySQL 8.x, PostgreSQL, Oracle DB, Railway Cloud, Docker Compose
-  objetivo: Practicante Pre-Profesional de Desarrollo de Software / Backend / IA / Frontend / TI
-```
-
-<br/>
-
-- 🤖 **IA Autónoma, Agentes & RAG:** Arquitectura y desarrollo de asistentes de IA personalizados (**OpenLuyo / Jarvis**), bases de conocimiento (**Knowledge Base RAG**) para ingesta y consulta semántica de libros técnicos/filosóficos, integración con **Model Context Protocol (MCP)** y automatización con contenedores **Docker Compose**.
-- ☕ **Backend Enterprise & Java:** Construcción de servicios multicapa con **Spring Boot 3, Spring Data JPA / Hibernate, Java 17**, patrones de diseño GoF (**Facade, Prototype, Singleton, Factory, MVC, DAO**), conexión **JDBC** y algoritmos de grafos (**Dijkstra, Colas de Prioridad**).
-- 🌐 **Frontend Moderno & Web:** Creación de aplicaciones web interactivas y responsivas con **Next.js (App Router), React, TypeScript, Tailwind CSS, HTML5 semántico, CSS3 avanzado, JavaScript ES6+**, vistas **Thymeleaf** y diseño UI en **Figma**.
-- 📡 **Redes & Telecomunicaciones:** Simulación y diseño de topologías de red en **Cisco Packet Tracer (v9.0)**, subnetting **IPv4 / IPv6**, protocolos de servicios (**DNS, SMTP, FTP, Telnet/SSH**) y orquestación de redes asistida por IA.
-- 🗄️ **Bases de Datos & Cloud:** Modelado Relacional E/R, optimización de queries SQL en **MySQL 8.x, PostgreSQL y Oracle**, con despliegue en la nube con **Railway Cloud PaaS** y **Coolify**.
-
----
-
-### 🛠️ Tecnologías, Stack & Herramientas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,nextjs,react,ts,js,html,css,tailwind,mysql,postgres,cisco,docker,git,github,vscode,idea,figma,linux&perline=10" alt="Tech Stack Icons"/>
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th width="25%">🤖 IA, RAG & Agentes</th>
-      <th width="25%">☕ Backend Enterprise</th>
-      <th width="25%">🌐 Frontend & UI</th>
-      <th width="25%">📡 Redes, Cloud & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        • <b>Desarrollo de IA Propia (OpenLuyo)</b><br/>
-        • <b>Model Context Protocol (MCP)</b><br/>
-        • <b>RAG & Knowledge Base (Libros/Docs)</b><br/>
-        • <b>Prompt Engineering & AI Coding</b><br/>
-        • <b>Python (Automatización & APIs)</b><br/>
-        • <b>Baileys WhatsApp Bridge</b>
-      </td>
-      <td>
-        • <b>Java 17 (POO Avanzado)</b><br/>
-        • <b>Spring Boot 3</b><br/>
-        • <b>Spring Data JPA / Hibernate</b><br/>
-        • <b>Patrones GoF & MVC / DAO</b><br/>
-        • <b>Grafos & Algoritmo Dijkstra</b><br/>
-        • <b>REST APIs & Maven / JDBC</b>
-      </td>
-      <td>
-        • <b>Next.js (App Router)</b><br/>
-        • <b>React & TypeScript</b><br/>
-        • <b>JavaScript (ES6+)</b><br/>
-        • <b>HTML5 Semántico & CSS3</b><br/>
-        • <b>Tailwind CSS & Thymeleaf</b><br/>
-        • <b>Figma (Prototipado UI/UX)</b>
-      </td>
-      <td>
-        • <b>Cisco Packet Tracer 9.0</b><br/>
-        • <b>Subnetting IPv4 / IPv6</b><br/>
-        • <b>Docker Compose & Railway</b><br/>
-        • <b>MySQL 8.x, Postgres, Oracle</b><br/>
-        • <b>Git / GitHub Flujos</b><br/>
-        • <b>Linux Bash & Coolify</b>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 🚀 Proyectos Técnicos Destacados
-
-<table align="center" width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🤖 <a href="https://github.com/frankitoromas-tech/Desarrollo-de-mi-IA">OpenLuyo – IA Personalizada & RAG Knowledge Base</a></h4>
-      <p align="center">
-        <a href="https://github.com/frankitoromas-tech/Desarrollo-de-mi-IA">
-          <img src="https://img.shields.io/badge/Custom_AI-Python_&_MCP-00B4D8?style=for-the-badge&logo=python&logoColor=white" alt="Proyecto OpenLuyo IA"/>
-        </a>
-      </p>
-      <p><b>Descripción:</b> Arquitectura de Asistente de IA Autónomo personalizado con base de conocimiento (Knowledge Base RAG) para ingesta y consulta contextual de bibliografía técnica y especializada. Integración con <b>Model Context Protocol (MCP)</b>, interfaz de usuario en <b>Electron</b>, puente de mensajería (Baileys) y despliegue modular con <b>Docker Compose & Coolify</b>.</p>
-      <p><b>Stack:</b> <code>Python</code> <code>Model Context Protocol (MCP)</code> <code>RAG Knowledge Base</code> <code>Docker Compose</code> <code>Electron UI</code> <code>Coolify</code></p>
-      <p align="center"><a href="https://github.com/frankitoromas-tech/Desarrollo-de-mi-IA">👉 <b>Explorar Código del Repositorio</b></a></p>
+      <h4>🤖 IAs Agénticas & Ecosistema Python</h4>
+      <ul>
+        <li><strong>Arquitectura Agéntica:</strong> Agentic Loops, Tool-Calling, Swarms Colaborativos, Thought Logging</li>
+        <li><strong>Protocolos de Contexto:</strong> FastMCP (Model Context Protocol stdio / SSE)</li>
+        <li><strong>RAG & Memoria:</strong> Búsqueda Semántica Vectorial, SQLite, Embeddings, Ingesta de PDFs/Markdown</li>
+        <li><strong>Seguridad de Agentes:</strong> Permission Engine (Allow/Ask/Deny), Agent Shield, CLI Sandboxing</li>
+        <li><strong>Canales & Gateways:</strong> Baileys (WhatsApp Web Multi-device), Electron UI, Whisper STT, EdgeTTS</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🏥 <a href="https://github.com/frankitoromas-tech/AVANCE-DE-PROYECTO-1-MDW-">Lima Salud – Sistema Web de Gestión Clínica</a></h4>
-      <p align="center">
-        <a href="https://github.com/frankitoromas-tech/AVANCE-DE-PROYECTO-1-MDW-">
-          <img src="https://img.shields.io/badge/Spring_Boot_3-MySQL_&_Railway-1d4ed8?style=for-the-badge&logo=springboot&logoColor=white" alt="Proyecto Lima Salud"/>
-        </a>
-      </p>
-      <p><b>Descripción:</b> Sistema web integral para gestión de citas médicas y atención hospitalaria con arquitectura multicapa empresarial (Controladores MVC, DTOs con validaciones, Servicios de negocio y Repositorios JPA). Control de acceso por roles (Médico, Paciente, Admin) y despliegue en la nube con <b>Railway Cloud</b>.</p>
-      <p><b>Stack:</b> <code>Spring Boot 3</code> <code>JPA/Hibernate</code> <code>MySQL 8.x</code> <code>Thymeleaf</code> <code>JavaScript</code> <code>Railway Cloud</code></p>
-      <p align="center"><a href="https://github.com/frankitoromas-tech/AVANCE-DE-PROYECTO-1-MDW-">👉 <b>Explorar Código del Repositorio</b></a></p>
+      <h4>☕ Java Enterprise & Backend</h4>
+      <ul>
+        <li><strong>Core Java:</strong> Java 17 (POO Avanzada, Genéricos, Colecciones, Concurrencia básica)</li>
+        <li><strong>Frameworks:</strong> Spring Boot 3, Spring Data JPA, Spring Security (Roles), Hibernate</li>
+        <li><strong>Arquitectura:</strong> Patrones GoF (Facade, Prototype, Factory, Singleton), MVC, DAO, DTOs</li>
+        <li><strong>Bases de Datos:</strong> MySQL 8.x, PostgreSQL, Oracle DB, Conexión JDBC Transaccional</li>
+        <li><strong>Herramientas:</strong> Maven, Bean Validation (<code>@Valid</code>, <code>@NotNull</code>), Railway Cloud PaaS</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🚦 <a href="https://github.com/frankitoromas-tech/proyecto-de-AED">Simulador & Optimizador de Tráfico Urbano</a></h4>
-      <p align="center">
-        <a href="https://github.com/frankitoromas-tech/proyecto-de-AED">
-          <img src="https://img.shields.io/badge/Java_17-Grafos_&_Dijkstra-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Proyecto AED"/>
-        </a>
-      </p>
-      <p><b>Descripción:</b> Modelado computacional de redes viales urbanas en Java 17. Implementación de teoría de grafos, cálculo de rutas óptimas (Dijkstra / Comparador de Rutas), gestión de congestión vehicular mediante colas de prioridad y aplicación de patrones GoF (Facade, Prototype, MVC).</p>
-      <p><b>Stack:</b> <code>Java 17 POO</code> <code>Grafos & Dijkstra</code> <code>Colas con Prioridad</code> <code>Patrones GoF</code> <code>MVC</code></p>
-      <p align="center"><a href="https://github.com/frankitoromas-tech/proyecto-de-AED">👉 <b>Explorar Código del Repositorio</b></a></p>
+      <h4>🌐 Frontend & Desarrollo Web</h4>
+      <ul>
+        <li><strong>Lenguajes:</strong> JavaScript (ES6+), HTML5 Semántico, CSS3 Moderno</li>
+        <li><strong>Frameworks & UI:</strong> Next.js, React, Tailwind CSS, Thymeleaf Engine</li>
+        <li><strong>Diseño & Prototipado:</strong> UI/UX Responsive, Figma, Glassmorphism, Micro-animaciones</li>
+        <li><strong>Consumo de APIs:</strong> Fetch / Axios, REST APIs, JSON Parsing, WebSocket clients</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🌐 <a href="https://github.com/frankitoromas-tech/Bonten">Bonten – Portal & Aplicativo Web Moderno</a></h4>
-      <p align="center">
-        <a href="https://github.com/frankitoromas-tech/Bonten">
-          <img src="https://img.shields.io/badge/Frontend-React_&_TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Proyecto Bonten"/>
-        </a>
-      </p>
-      <p><b>Descripción:</b> Aplicación frontend interactiva con interfaz intuitiva, maquetación modular responsiva mobile-first, consumo de servicios y estructuración de componentes limpios y reutilizables.</p>
-      <p><b>Stack:</b> <code>React</code> <code>TypeScript</code> <code>CSS3 / Tailwind</code> <code>JavaScript ES6+</code> <code>Git</code></p>
-      <p align="center"><a href="https://github.com/frankitoromas-tech/Bonten">👉 <b>Explorar Código del Repositorio</b></a></p>
+      <h4>📡 Redes, Cloud & DevOps</h4>
+      <ul>
+        <li><strong>Simulación de Redes:</strong> Cisco Packet Tracer 9.0 (Topologías LAN/WAN, Routers, Switches)</li>
+        <li><strong>Protocolos & Direccionamiento:</strong> Subnetting IPv4 / IPv6 (VLSM), DNS, DHCP, HTTP, SMTP, FTP, SSH</li>
+        <li><strong>Contenedores & Cloud:</strong> Docker Compose, Coolify Self-Hosting, Railway Cloud Deploy</li>
+        <li><strong>Control de Versiones & SO:</strong> Git, GitHub, Linux (Bash), Windows Server / Desktop</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Actividad & Estadísticas en GitHub
+## 📂 Proyectos Técnicos Destacados
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=frankitoromas-tech&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&stroke=1E293B" alt="GitHub Streak" />
-</div>
+### 1. 🤖 [OpenLuyo – Sistema de IA Agéntica Autónoma, FastMCP & RAG Knowledge Base](https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20interesa%20conocer%20m%C3%A1s%20sobre%20la%20arquitectura%20de%20OpenLuyo)
+![Estado](https://img.shields.io/badge/Arquitectura_Privada-Demo_a_Solicitud-00B4D8?style=for-the-badge&logo=python&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-Model_Context_Protocol-4F46E5?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker_Compose-Coolify-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankitoromas-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frankitoromas-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankitoromas-tech&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=1d4ed8&point=38bdf8&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
+Arquitectura integral de asistente de IA agéntica con capacidades multicanal y razonamiento autónomo continuo:
+- **Motor Cognitivo & RAG Vectorial:** Indexación semántica y recuperación contextual de libros técnicos, filosóficos y científicos con chunking jerárquico y cálculo de similitud.
+- **Servidores FastMCP (Model Context Protocol):** Servidor stdio (`mcp_cisco_stdio`) con plantillas y generadores para automatización y verificación de laboratorios de redes Cisco Packet Tracer y cálculo VLSM.
+- **Seguridad & Sandboxing Empresarial:** Motor unificado de permisos (*Allow / Ask / Deny*) para análisis de argumentos en ejecución de comandos, filtro de fugas de secretos (*Agent Shield*) y prevención de *Path Traversal*.
+- **Integración Multicanal & UI:** Gateway multi-sesión con WhatsApp vía Baileys, cliente nativo en Electron y síntesis/reconocimiento de voz (Whisper STT & EdgeTTS).
+- **Despliegue DevOps:** Contenerizado con Docker Compose y orquestado en servidor autohospedado con Coolify.
+- 💬 *[🔒 Repositorio Privado • Solicitar Demostración Técnica en Vivo vía WhatsApp o LinkedIn]*
 
 ---
 
-### 💡 Filosofía de Desarrollo & Principios de Ingeniería
+### 2. 🏥 [Lima Salud – Sistema Web de Gestión Clínica & Citas Médicas](https://github.com/frankitoromas-tech/AVANCE-DE-PROYECTO-1-MDW-)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Railway](https://img.shields.io/badge/Deploy-Railway_Cloud-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h4>⚡ Clean Code & SOLID</h4>
-      <p>Código legible, desacoplado y mantenible aplicando patrones de diseño GoF y estándares de la industria.</p>
-    </td>
-    <td width="33%" align="center">
-      <h4>🤖 Agentes de IA & MCP</h4>
-      <p>Desarrollo y orquestación de agentes autónomos, sistemas RAG con bases de conocimiento e interoperabilidad vía MCP.</p>
-    </td>
-    <td width="34%" align="center">
-      <h4>🚀 Escalabilidad & Cloud</h4>
-      <p>Despliegues modulares en contenedores Docker y plataformas Cloud orientados a alta disponibilidad y rendimiento.</p>
-    </td>
-  </tr>
-</table>
+Sistema web para administración hospitalaria desarrollado con arquitectura multicapa enterprise:
+- **Backend Robusto:** Controladores Spring MVC, Servicios desacoplados con manejo transaccional (`@Transactional`), Repositorios Spring Data JPA y base de datos MySQL 8.x.
+- **Validaciones & DTOs:** Capa de transferencia de datos con validaciones estrictas (`@Valid`, `@NotBlank`, `@NotNull`) para integridad del historial médico y reservas.
+- **Control de Acceso:** Gestión de usuarios con roles diferenciados (Médicos, Pacientes, Administradores).
+- **Frontend & Cloud:** Vistas responsivas con motor Thymeleaf, JavaScript y despliegue continuo en **Railway Cloud**.
 
 ---
 
-### 📫 ¿Hablamos? / Conectemos
+### 3. 🚦 [Simulador & Optimizador de Tráfico Urbano (AED & Grafos)](https://github.com/frankitoromas-tech/proyecto-de-AED)
+![Java 17](https://img.shields.io/badge/Java_17_POO-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dijkstra](https://img.shields.io/badge/Algoritmo-Dijkstra_&_Grafos-8B5CF6?style=for-the-badge)
+
+Software en Java 17 para modelado y simulación de redes viales urbanas:
+- **Teoría de Grafos:** Representación de intersecciones viales y cálculo de rutas óptimas mediante el algoritmo de **Dijkstra**.
+- **Estructuras de Datos Avanzadas:** Gestión dinámica de congestión vehicular mediante **Colas de Prioridad (`PriorityQueue`)**.
+- **Patrones de Diseño GoF:** Implementación de patrón **Facade** para orquestar la simulación, **Prototype** para clonación de configuraciones viales y **MVC** para separación de responsabilidades.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frankitoromas-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Frank's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frankitoromas-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Contacto Profesional
 
 <div align="center">
-  <p>Estoy activamente en búsqueda de oportunidades de <b>Prácticas Pre-Profesionales en Desarrollo de Software, Backend, IA o TI</b>.</p>
-  
-  <a href="https://www.linkedin.com/in/frankosyni-undefined-6a010a378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Frank_Emiliano_Vargas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:frank5vargashuaman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-frank5vargashuaman@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-(+51)_906_740_940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 
-  <br/><br/>
-  <p><i>"Construyendo soluciones de software eficientes, escalables y con código limpio."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=90&section=footer" width="100%" alt="Footer Banner"/>
+¿Interesado en mi perfil para una posición de **Practicante Pre-Profesional de Desarrollo / Backend / IA / TI**?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frankosyni-undefined-6a010a378/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank5vargashuaman@gmail.com)
+
 </div>
