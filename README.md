@@ -1,7 +1,12 @@
 <div align="center">
 
-# ⚡ Frank Emiliano Vargas Huamán
-### 🚀 Estudiante de Ingeniería de Sistemas e Informática (UTP, 7mo Ciclo) &middot; Software & Agentic AI Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=Frank%20Emiliano%20Vargas&fontSize=38&fontColor=ffffff&animation=fadeIn&subtext=Software%20%26%20Agentic%20AI%20Developer%20%7C%20Java%2017%20%7C%20Spring%20Boot%203%20%7C%20FastMCP&subfontSize=15" width="100%" alt="Header Banner" />
+
+<a href="https://github.com/frankitoromas-tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Software+%26+Agentic+AI+Developer;Java+17+%7C+Spring+Boot+3+%7C+MySQL+8.x;Arquitecturas+Cognitivas+%7C+FastMCP+%7C+RAG+Vectorial;Estudiante+UTP+(7mo+Ciclo)+%7C+Lima%2C+Per%C3%BA" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/frankosyni-undefined-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Frank_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,7 +18,7 @@
 <p align="center">
   📍 <strong>Lima, Perú (SJL)</strong> &nbsp;|&nbsp; 
   🎯 <strong>Buscando Prácticas Pre-Profesionales:</strong> Desarrollo Backend, Full-Stack, IA Agéntica & Soporte TI &nbsp;|&nbsp; 
-  🟢 <strong>Disponibilidad Inmediata</strong>
+  🟢 <strong>Disponibilidad Inmediata (Horario Diurno Libre)</strong>
 </p>
 
 ---
@@ -22,7 +27,7 @@
 
 ## 🧠 Sobre Mí & Enfoque de Ingeniería
 
-Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)** cursando el 7mo ciclo (2026-II, turno noche, disponibilidad diurna). Cuento con una sólida formación en desarrollo backend con **Java 17 (Spring Boot 3, Spring Data JPA/Hibernate, Patrones GoF y arquitectura MVC/DAO)** y bases de datos relacionales (**MySQL 8.x, PostgreSQL**).
+Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)** cursando el 7mo ciclo (2026-II, turno noche, disponibilidad diurna completa). Cuento con una sólida formación en desarrollo backend con **Java 17 (Spring Boot 3, Spring Data JPA/Hibernate, Patrones GoF y arquitectura MVC/DAO)** y bases de datos relacionales (**MySQL 8.x, PostgreSQL**).
 
 Mi mayor pasión profesional e investigativa radica en comprender y construir el funcionamiento interno de **IAs Agénticas y Arquitecturas Cognitivas**:
 - 🔄 **Agentic Loops & Reasoning:** Diseño de lazos de ejecución autónomos, cadenas de razonamiento (*Chain-of-Thought*), presupuesto dinámico de tokens y persistencia episódica.
@@ -126,6 +131,10 @@ Software en Java 17 para modelado y simulación de redes viales urbanas:
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frankitoromas-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Frank's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankitoromas-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
