@@ -150,7 +150,7 @@
 
 <p align="center">
   <a href="https://github.com/frankitoromas-tech/proyecto-de-AED">
-    <img src="https://img.shields.io/badge/Repositorio-Simulador_Tráfico-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo Simulador" />
+    <img src="https://img.shields.io/badge/Repositorio-Simulador_Trafico-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo Simulador" />
   </a>
   <img src="https://img.shields.io/badge/Java_17_POO-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/Algoritmo-Dijkstra_&_Grafos-8B5CF6?style=for-the-badge" alt="Dijkstra" />
