@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frank-emiliano-vargas-huam%C3%A1n-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Frank_Emiliano_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:frank5vargashuaman@gmail.com"><img src="https://img.shields.io/badge/Email-frank5vargashuaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:frank5vargashuaman@gmail.com"><img src="https://img.shields.io/badge/Email-frank5vargashuaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Principal" /></a>
+  <a href="mailto:frankitoromas@gmail.com"><img src="https://img.shields.io/badge/Email_Alt-frankitoromas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alternativo" /></a>
   <a href="https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20sobre%20oportunidades%20de%20pr%C3%A1cticas%20preprofesionales"><img src="https://img.shields.io/badge/WhatsApp-(%2B51)_906_740_940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://github.com/frankitoromas-tech"><img src="https://img.shields.io/badge/GitHub-frankitoromas--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -150,6 +151,7 @@ Proyecto experimental y de autoestudio enfocado en el estándar Model Context Pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-emiliano-vargas-huam%C3%A1n-6a010a378/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51906740940?text=Hola%20Frank,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank5vargashuaman@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Principal-frank5vargashuaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank5vargashuaman@gmail.com)
+[![Email Alternativo](https://img.shields.io/badge/Email_Alternativo-frankitoromas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankitoromas@gmail.com)
 
 </div>
