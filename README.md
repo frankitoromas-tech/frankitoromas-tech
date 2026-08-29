@@ -129,7 +129,7 @@ Proyecto experimental y de autoestudio enfocado en el estándar Model Context Pr
 ## 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frankitoromas-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Frank's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=frankitoromas-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20%7C%20Frank%20Vargas" alt="Frank's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ Proyecto experimental y de autoestudio enfocado en el estándar Model Context Pr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frankitoromas-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frankitoromas-tech&layout=compact&theme=tokyonight&hide_border=true&custom_title=Lenguajes%20M%C3%A1s%20Utilizados" alt="Top Languages" />
 </p>
 
 ---
