@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG INTERACTIVO -->
 <a href="https://github.com/frankitoromas-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%20/%20francus%20%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%3BFrank%20Emiliano%20Vargas%20Huam%C3%A1n%3BEstudiante%20de%207mo%20Ciclo%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%28UTP%29%3BBackend%20Java%2017%20%7C%20Spring%20Boot%203%20%7C%20MySQL%208%3BArquitectura%20Limpia%20%7C%208%20Patrones%20GoF%20%7C%20Algoritmos%3BEcosistema%20Ag%C3%A9ntico%20%7C%20FastMCP%20%7C%20Python%20%7C%20Playwright%3BCertificado%20Cisco%20NetAcad%20en%20Ciberseguridad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%20/%20francus%20%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%3BFrank%20Emiliano%20Vargas%20Huam%C3%A1n%3BEstudiante%20de%207mo%20Ciclo%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%28UTP%29%3BBackend%20Java%2017%20%7C%20Spring%20Boot%203%20%7C%20MySQL%208%20%7C%20Postgres%3BArquitectura%20Hexagonal%20%7C%208%20Patrones%20GoF%20%7C%20Algoritmos%3BEcosistema%20Ag%C3%A9ntico%20%7C%20FastMCP%20%7C%20Python%20%7C%20Playwright%3BCertificado%20Cisco%20NetAcad%20en%20Ciberseguridad" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,14 +29,14 @@
 
 </div>
 
-## 👨‍💻 Perfil del Desarrollador & Enfoque Académico
+## 👨‍💻 Perfil del Desarrollador & Enfoque de Ingeniería
 
 ¡Hola! Soy **Frank Emiliano Vargas Huamán** (firma técnica: **Φραγκοσύνη / francus 🐦‍🔥**), estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)** (turno noche, con disponibilidad diurna 100% libre para prácticas preprofesionales en modalidad presencial, híbrida o remota).
 
-* ☕ **Desarrollo Backend:** Fundamentos sólidos en **Java 17**, arquitectura **MVC/DAO**, persistencia con **Spring Boot 3 & Spring Data JPA/Hibernate**, y bases de datos relacionales (**MySQL 8.x / PostgreSQL**).
-* 🛡️ **Patrones de Software & Clean Code:** Implementación rigurosa de patrones de diseño **GoF** (Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command, State, Observer) y principios SOLID.
-* 🤖 **Automatización & IA:** Construcción de herramientas con **Python 3.x**, servidores **Model Context Protocol (FastMCP)** y automatización web con **Playwright**.
-* 📡 **Redes & Infraestructura:** Configuración de topologías LAN/WAN y subnetting VLSM IPv4/IPv6 en **Cisco Packet Tracer**, respaldado por certificación oficial de **Cisco Networking Academy**.
+* ☕ **Desarrollo Backend Enterprise:** Fundamentos sólidos en **Java 17**, arquitectura **Hexagonal** y **MVC/DAO**, persistencia con **Spring Boot 3 & Spring Data JPA/Hibernate**, y bases de datos relacionales (**MySQL 8.x / PostgreSQL**).
+* 🛡️ **Patrones de Diseño GoF & Clean Code:** Implementación rigurosa de 8 patrones de diseño clásicos (**Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command, State**) y principios SOLID.
+* 🤖 **Automatización & Ecosistema Agéntico:** Construcción de herramientas con **Python 3.x**, servidores **Model Context Protocol (FastMCP)** y automatización web con **Playwright**.
+* 📡 **Redes & Ciberseguridad:** Configuración de topologías LAN/WAN y subnetting VLSM IPv4/IPv6 en **Cisco Packet Tracer**, respaldado por certificación oficial de **Cisco Networking Academy**.
 * 🌱 **Compromiso y Actitud:** Aprendiz proactivo, enfocado en código limpio, rigor técnico y preparado para aportar valor en un equipo de ingeniería profesional.
 
 ---
@@ -51,88 +51,15 @@
 
 ---
 
-## 📚 Evolución Técnica por Ciclos Universitarios (UTP)
-
-> Haz clic en cada ciclo para desplegar las competencias y herramientas adquiridas:
+## 📂 Proyectos de Portafolio Destacados
 
 <details open>
-<summary><b>⚡ Ciclo 7 (Actual - 2026-II) | Redes, Ciberseguridad & Ecosistema Agéntico</b></summary>
-<br/>
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=python,docker,linux,bash" width="100" alt="Ciclo 7 Icons" />
-    </td>
-    <td width="80%">
-      <h4>🌐 Redes, Ciberseguridad & Automatización Avanzada</h4>
-      <ul>
-        <li><strong>Redes y Telecomunicaciones:</strong> Simulación de topologías empresariales en <strong>Cisco Packet Tracer</strong>, diseño de esquemas de direccionamiento <strong>VLSM IPv4 e IPv6</strong>, y servicios de red (DNS, DHCP, SSH, Web).</li>
-        <li><strong>Certificación Cisco NetAcad:</strong> <em>Introducción a la Ciberseguridad</em> (ID: <code>6a7a7015-25d2-4ce9-97b6-aa98acb4ee10</code>). Aplicación de la tríada CIA, análisis de malware y respuestas ante incidentes.</li>
-        <li><strong>Ecosistema Agéntico & MCP:</strong> Implementación de servidores <strong>FastMCP stdio</strong> para conectar herramientas del sistema con modelos de lenguaje y automatización RPA con <strong>Playwright</strong>.</li>
-        <li><strong>Entornos de Ejecución:</strong> Uso de <strong>Docker Compose</strong> y scripts de automatización en Bash/PowerShell.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>🚀 Ciclos 5 y 6 | Arquitectura Backend Enterprise & Algoritmia Avanzada</b></summary>
-<br/>
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,postman,idea" width="100" alt="Ciclos 5-6 Icons" />
-    </td>
-    <td width="80%">
-      <h4>☕ Backend Robusto & Algoritmos de Grafos</h4>
-      <ul>
-        <li><strong>Frameworks Java:</strong> Desarrollo de aplicaciones empresariales con <strong>Spring Boot 3</strong>, <strong>Spring Data JPA</strong> y <strong>Hibernate</strong>.</li>
-        <li><strong>Arquitectura & Patrones:</strong> Separación en capas (Controller, Service, Repository, DTO), validación de formularios con <code>@Valid</code> / <code>@NotBlank</code> y manejo transaccional con <code>@Transactional</code>.</li>
-        <li><strong>Patrones de Diseño GoF:</strong> Dominio de los 8 patrones fundamentales (Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command, State, Observer).</li>
-        <li><strong>Algoritmos & Grafos:</strong> Implementación del algoritmo de <strong>Dijkstra</strong> para cálculo de rutas de tráfico óptimas en grafos con colas de prioridad (<code>PriorityQueue</code>).</li>
-        <li><strong>Bases de Datos & Cloud:</strong> Conexión y optimización de consultas en <strong>PostgreSQL</strong> y despliegue continuo en <strong>Railway Cloud</strong>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>☕ Ciclos 1 al 4 | Fundamentos de Computación, POO & Bases de Datos</b></summary>
-<br/>
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js,vscode" width="100" alt="Ciclos 1-4 Icons" />
-    </td>
-    <td width="80%">
-      <h4>💻 Bases de la Ingeniería de Software</h4>
-      <ul>
-        <li><strong>Programación Orientada a Objetos:</strong> Dominio de clases, encapsulamiento, herencia, polimorfismo, manejo de colecciones y excepciones en <strong>Java 17</strong>.</li>
-        <li><strong>Bases de Datos Relacionales:</strong> Diseño entidad-relación, normalización (1FN, 2FN, 3FN), creación de esquemas y consultas complejas en <strong>MySQL 8.x</strong>.</li>
-        <li><strong>Control de Versiones:</strong> Flujos de trabajo con <strong>Git & GitHub</strong> (branches, commits semánticos, pull requests y repositorios colaborativos).</li>
-        <li><strong>Desarrollo Web Base:</strong> Construcción de interfaces estructuradas con <strong>HTML5 Semántico</strong>, <strong>CSS3</strong> y fundamentos de <strong>JavaScript (ES6+)</strong>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</details>
-
----
-
-## 📂 Proyectos Técnicos Destacados
-
-<details open>
-<summary><b>🏥 1. Lima Salud – Sistema Web de Gestión Clínica & Citas Médicas</b></summary>
+<summary><b>🏥 1. Lima Salud – Sistema Web Empresarial de Gestión Clínica & Citas Médicas</b></summary>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/frankitoromas-tech/AVANCE-DE-PROYECTO-1-MDW-">
-    <img src="https://img.shields.io/badge/Repositorio-Lima_Salud-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Repo Lima Salud" />
+  <a href="https://github.com/frankitoromas-tech/lima-salud-spring-boot">
+    <img src="https://img.shields.io/badge/Repositorio-lima--salud--spring--boot-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Repo Lima Salud" />
   </a>
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3" />
   <img src="https://img.shields.io/badge/Spring_Security-JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
@@ -143,25 +70,45 @@
 * **Propósito:** Sistema de control hospitalario para registro de pacientes, especialidades médicas y reserva transaccional de citas.
 * **Aspectos Técnicos:**
   * Controladores Spring MVC con arquitectura desacoplada y contratos de servicio.
-  * Autenticación dual (Web por formulario + API REST protegida por JWT HMAC-SHA384).
+  * Autenticación dual (Web por formulario con BCrypt + API REST protegida por JWT HMAC-SHA384).
   * Mapeo objeto-relacional mediante Spring Data JPA y validación estricta con DTOs.
   * Despliegue continuo en la nube con Railway.
 </details>
 
 <details open>
-<summary><b>🛡️ 2. Sistema de Seguridad & Vigilancia – 8 Patrones GoF en Java</b></summary>
+<summary><b>🏛️ 2. SIGIR - BCRP: Supervisión Regulatoria de Pagos Digitales</b></summary>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/frankitoromas-tech/desarrollo-de-DP">
-    <img src="https://img.shields.io/badge/Repositorio-Seguridad_GoF_Java-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Repo Seguridad GoF" />
+  <a href="https://github.com/frankitoromas-tech/UTP-Curso-Integrador-I-SIGIR-BCRP">
+    <img src="https://img.shields.io/badge/Repositorio-SIGIR--BCRP-C8102E?style=for-the-badge&logo=github&logoColor=white" alt="Repo SIGIR BCRP" />
+  </a>
+  <img src="https://img.shields.io/badge/Arquitectura-Hexagonal-005691?style=for-the-badge" alt="Hexagonal" />
+  <img src="https://img.shields.io/badge/PostgreSQL_15-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+* **Propósito:** Sistema de telemetría y supervisión de incidentes regulatorios para el Banco Central de Reserva del Perú (BCRP) bajo normativa nacional de pagos interoperables.
+* **Aspectos Técnicos:**
+  * Arquitectura Hexagonal estricta (Domain, Ports, Adapters) en Spring Boot 3.3.
+  * Modelo relacional inmutable con triggers de auditoría en PostgreSQL 15.
+  * Orquestación de contenedores multi-servicio (API + DB + Nginx) con Docker Compose.
+</details>
+
+<details open>
+<summary><b>🛡️ 3. Sistema de Seguridad & Vigilancia – 8 Patrones GoF en Java 17</b></summary>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/frankitoromas-tech/seguridad-patrones-gof-java">
+    <img src="https://img.shields.io/badge/Repositorio-seguridad--patrones--gof--java-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Repo Seguridad GoF" />
   </a>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/Patrones_GoF-8%20Implementados-blueviolet?style=for-the-badge" alt="8 Patrones GoF" />
   <img src="https://img.shields.io/badge/GUI-Swing-FF6F00?style=for-the-badge" alt="Swing" />
 </p>
 
-* **Propósito:** Software para monitorización y control de hardware de seguridad física (cámaras, sensores, cerraduras y reflectores).
+* **Propósito:** Software para monitorización y control de hardware de seguridad física (cámaras, sensores térmicos, cerraduras electrónicas y reflectores).
 * **Aspectos Técnicos:**
   * Aplicación práctica de 8 patrones GoF: **Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command y State**.
   * Arquitectura desacoplada bajo principios SOLID y persistencia desacoplada en CSV.
@@ -169,7 +116,7 @@
 </details>
 
 <details open>
-<summary><b>⚡ 3. BONTEN Web Platform – Comunidad & Asistencia Cognitiva</b></summary>
+<summary><b>⚡ 4. BONTEN Web Platform – Comunidad & Asistencia Cognitiva</b></summary>
 <br/>
 
 <p align="center">
@@ -190,12 +137,12 @@
 </details>
 
 <details open>
-<summary><b>🚦 4. Simulador de Tráfico Urbano & Algoritmo de Dijkstra</b></summary>
+<summary><b>🚦 5. Simulador de Tráfico Urbano & Algoritmo de Dijkstra</b></summary>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/frankitoromas-tech/proyecto-de-AED">
-    <img src="https://img.shields.io/badge/Repositorio-Simulador_Trafico-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo Simulador" />
+  <a href="https://github.com/frankitoromas-tech/simulador-trafico-dijkstra-java">
+    <img src="https://img.shields.io/badge/Repositorio-simulador--trafico--dijkstra--java-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo Simulador" />
   </a>
   <img src="https://img.shields.io/badge/Java_17_POO-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/Algoritmo-Dijkstra_&_Grafos-8B5CF6?style=for-the-badge" alt="Dijkstra" />
