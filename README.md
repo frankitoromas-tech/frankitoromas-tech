@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER ANIMADO ELEGANTE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=%CE%A6%CF%81%CE%B1%CE%BD%CE%BA%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%20/%20Francus.%20%F0%9F%94%A5&fontSize=30&fontColor=ffffff&animation=fadeIn&subtext=Frank%20Emiliano%20Vargas%20%7C%20Software%20%26%20Agentic%20AI%20Developer%20%7C%20Backend%20Java%20Enterprise&subfontSize=14&subfontColor=93c5fd" width="100%" alt="Header Banner Frankosyni" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=%CE%A6%CF%81%CE%B1%CE%BD%CE%BA%CE%BF%CF%83%CF%8D%CE%BD%CE%B7/Francus.%20%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5&fontSize=30&fontColor=ffffff&animation=fadeIn&subtext=Frank%20Emiliano%20Vargas%20%7C%20Software%20%26%20Agentic%20AI%20Developer%20%7C%20Backend%20Java%20Enterprise&subfontSize=14&subfontColor=93c5fd" width="100%" alt="Header Banner Frankosyni" />
 
 <!-- TYPING SVG CON IDENTIDAD PROFESIONAL DE ALTO IMPACTO -->
 <a href="https://github.com/frankitoromas-tech">
@@ -252,6 +252,6 @@ Más allá del backend tradicional, diseño y construyo sistemas autónomos mode
 
 <br/><br/>
 
-<sub>Firma de Ingeniería: Φρανκοσύνη / Francus. (Frank Emiliano Vargas Huamán) — Lima, Perú © 2026</sub>
+<sub>Firma de Ingeniería: Φρανκοσύνη/Francus. 🐦‍🔥 (Frank Emiliano Vargas Huamán) — Lima, Perú © 2026</sub>
 
 </div>
