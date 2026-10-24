@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG CON IDENTIDAD PROFESIONAL DE ALTO IMPACTO -->
 <a href="https://github.com/frankitoromas-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%CE%A6%CF%81%CE%B1%CE%BD%CE%BA%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%20%2F%20Francus.%20%F0%9F%94%A5%20%E2%80%94%20Frank%20Emiliano%20Vargas%20Huam%C3%A1n;Backend%20Software%20Engineer%20%7C%20Java%2017%20%7C%20Spring%20Boot%203%20%7C%20JPA%20Hibernate;Arquitectura%20Hexagonal%20%7C%208%20Patrones%20GoF%20%7C%20Clean%20Architecture;Ingenier%C3%ADa%20de%20IAs%20Ag%C3%A9nticas%20%7C%20Model%20Context%20Protocol%20(FastMCP)%20%7C%20RPA;Algoritmos%20Avanzados%20%7C%20Grafos%20Dijkstra%20%7C%20PriorityQueue%20%7C%20AVL;Infraestructura%20TI%20%7C%20Docker%20Compose%20%7C%20Cisco%20Packet%20Tracer%20(VLSM);Disponible%20para%20Pr%C3%A1cticas%20Preprofesionales%20(Turno%20Diurno%20100%25%20Libre)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%CE%A6%CF%81%CE%B1%CE%BD%CE%BA%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%20%2F%20Francus.%20%F0%9F%94%A5%20%E2%80%94%20Frank%20Emiliano%20Vargas%20Huam%C3%A1n;Backend%20Software%20Engineer%20%7C%20Java%2017%20%7C%20Spring%20Boot%203%20%7C%20JPA%20Hibernate;Ingenier%C3%ADa%20de%20IAs%20Ag%C3%A9nticas%20%7C%20Model%20Context%20Protocol%20(FastMCP)%20%7C%20Agent%20Shield;Arquitectura%20Hexagonal%20%7C%208%20Patrones%20GoF%20%7C%20Clean%20Architecture;Algoritmos%20Avanzados%20%7C%20Grafos%20Dijkstra%20%7C%20PriorityQueue%20%7C%20AVL;Infraestructura%20TI%20%7C%20Docker%20Compose%20%7C%20Cisco%20Packet%20Tracer%20(VLSM);Disponible%20para%20Pr%C3%A1cticas%20Preprofesionales%20(Turno%20Diurno%20100%25%20Libre)\" alt=\"Typing SVG\" />
 </a>
 
 <br/><br/>
@@ -34,9 +34,9 @@ Estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Un
 
 ### Pilares de Competencia Técnica:
 - ☕ **Backend Enterprise (Java 17 & Spring Boot 3):** Implementación de arquitecturas desacopladas (**Hexagonal / Puertos y Adaptadores**, MVC, DAO), seguridad transaccional con **Spring Security & JWT HMAC-SHA384**, persistencia con **Spring Data JPA / Hibernate**, y gestión de bases de datos relacionales (**MySQL 8.x, PostgreSQL 15**).
-- 🛡️ **Patrones de Diseño GoF & Principios SOLID:** Dominio aplicado de 8 patrones de diseño clásicos (**Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command, State**) con separación estricta de responsabilidades y cero deuda técnica estructural.
-- 🤖 **IAs Agénticas & Protocolo MCP (Model Context Protocol):** Desarrollo de servidores locales y remotos **FastMCP (stdio/SSE)** en Python, diseño de bucles de razonamiento (*agentic loops*), control de herramientas con validación estricta Pydantic y sandboxing de permisos de ejecución.
-- 🚦 **Algoritmia & Complejidad Computacional:** Implementación rigurosa de grafos dirigidos ponderados, colas de prioridad (`PriorityQueue`) para caminos mínimos (**Dijkstra**) y árboles de búsqueda balanceados (**AVL**).
+- 🛡️ **Patrones de Diseño GoF & Principios SOLID:** Dominio aplicado de 8 patrones de diseño clásicos (**Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command, State**) con separación estricta de responsabilidades y pruebas unitarias exhaustivas con **JUnit 5 y AssertJ**.
+- 🤖 **IAs Agénticas & Protocolo MCP (Model Context Protocol):** Desarrollo de firewalls de seguridad agéntica (**Agent Shield**), pasarelas empresariales **Spring AI MCP Gateway (stdio/SSE)**, control de herramientas con validación estricta Pydantic y sandboxing de permisos de ejecución (*Allow / Ask / Deny*).
+- 🚦 **Algoritmia & Complejidad Computacional:** Implementación rigurosa de grafos dirigidos ponderados, colas de prioridad (`PriorityQueue`) para caminos mínimos (**Dijkstra**) y estructuras de datos auto-balanceadas (**AVL Trees & Min-Heaps**).
 - 🌐 **Infraestructura, Redes & DevSecOps:** Diseño y subnetting de topologías de red **IPv4/IPv6 (VLSM)**, servicios corporativos (DNS, DHCP, SMTP, SSH) en **Cisco Packet Tracer 9.0**, orquestación en contenedores con **Docker Compose** y despliegues en **Railway / Coolify**.
 
 ---
@@ -64,12 +64,44 @@ Estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Un
 
 ---
 
-## 📂 Proyectos de Portafolio de Élite
+## 🏆 Flagship Projects: Arquitectura Enterprise & AI Agéntica
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 1. Lima Salud — Gestión Clínica Enterprise</h3>
+      <h3>🛡️ 1. Agent Shield MCP — AI Firewall & Sandboxing</h3>
+      <p><b>Agentic AI Security | Python 3.11+ · FastMCP · Zero-Trust · SHA-256 Audit</b></p>
+      <p>Capa de defensa perimetral para agentes autónomos. Intercepta llamadas de herramientas FastMCP en tiempo real para prevenir ejecuciones no autorizadas de código, inyecciones SQL y bucles de tokens descontrolados.</p>
+      <ul>
+        <li><b>Política Zero-Trust:</b> Reglas declarativas <code>ALLOW</code>, <code>ASK_HUMAN</code> y <code>DENY</code> con soporte Human-in-the-Loop.</li>
+        <li><b>Budget Guard:</b> Limitador de tasa sliding-window y cuotas acumulativas de tokens.</li>
+        <li><b>Auditoría Criptográfica:</b> Registro inmutable de transacciones con resúmenes SHA-256 en JSONL.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/frankitoromas-tech/agent-shield-mcp">
+          <img src="https://img.shields.io/badge/Ver_Código-agent--shield--mcp-0284C7?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 2. Spring Boot AI MCP Gateway</h3>
+      <p><b>Enterprise Gateway | Java 17 · Spring Boot 3.3 · Spring AI · stdio & SSE</b></p>
+      <p>Pasarela corporativa que expone bases de datos relacionales, introspección segura de esquemas y telemetría JVM a clientes AI (Claude Desktop, Cursor IDE) bajo el estándar Model Context Protocol.</p>
+      <ul>
+        <li><b>Dual Transport:</b> Soporte bidireccional nativo para stdio (JSON-RPC) y SSE HTTP.</li>
+        <li><b>SqlSanitizer:</b> Validación estricta de consultas de solo lectura (<code>SELECT</code>), bloqueo de queries apiladas y auto-inyección de <code>LIMIT 100</code>.</li>
+        <li><b>Testing:</b> Suite de integración completa con JUnit 5 y validación en CI de GitHub Actions.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/frankitoromas-tech/spring-boot-ai-mcp-gateway">
+          <img src="https://img.shields.io/badge/Ver_Código-spring--boot--ai--mcp--gateway-6DB33F?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 3. Lima Salud — Gestión Clínica Enterprise</h3>
       <p><b>Backend Enterprise | Java 17 · Spring Boot 3 · Spring Security · JPA · MySQL 8</b></p>
       <p>Sistema transaccional completo para la administración hospitalaria: gestión de pacientes, médicos especialistas, historias clínicas y asignación concurrente de citas.</p>
       <ul>
@@ -84,7 +116,7 @@ Estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Un
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ 2. SIGIR - BCRP: Incidentes Regulatorios</h3>
+      <h3>🏛️ 4. SIGIR - BCRP: Incidentes Regulatorios</h3>
       <p><b>Arquitectura Hexagonal | Spring Boot 3.3 · PostgreSQL 15 · Docker Compose</b></p>
       <p>Plataforma para la supervisión y reporte de incidentes regulatorios del Banco Central de Reserva del Perú (BCRP) en el ecosistema de pagos digitales interoperables.</p>
       <ul>
@@ -99,15 +131,21 @@ Estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Un
       </p>
     </td>
   </tr>
+</table>
+
+---
+
+## ⚙️ Ingeniería de Algoritmos, Patrones & Frontend Experiencial
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ 3. Sistema de Seguridad & 8 Patrones GoF</h3>
-      <p><b>Ingeniería de Software Pura | Java 17 · Patrones GoF · Swing GUI · CSV Storage</b></p>
+      <h3>🛡️ 5. Sistema de Seguridad & 8 Patrones GoF</h3>
+      <p><b>Ingeniería de Software Pura | Java 17 · Patrones GoF · JUnit 5 · Maven CI</b></p>
       <p>Suite de monitorización y control de hardware de seguridad física (cámaras PTZ, sensores térmicos, alarmas perimétricas y cerraduras biométricas).</p>
       <ul>
         <li><b>Patrones GoF:</b> Singleton, Factory Method, Builder, Adapter, Decorator, Proxy, Command y State.</li>
-        <li><b>Calidad:</b> Cero acoplamiento entre capa visual Swing y lógica de negocio.</li>
-        <li><b>Testing:</b> Suite de pruebas automatizadas que verifican los contratos de cada patrón.</li>
+        <li><b>Calidad:</b> Maven build automation, pruebas unitarias automatizadas con JUnit 5 y CI en GitHub Actions.</li>
       </ul>
       <p>
         <a href="https://github.com/frankitoromas-tech/seguridad-patrones-gof-java">
@@ -116,17 +154,38 @@ Estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Un
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚦 4. Simulador de Tráfico Urbano & Dijkstra</h3>
-      <p><b>Algoritmia & Complejidad | Java 17 · Grafos Dirigidos · PriorityQueue · Facade</b></p>
+      <h3>🚦 6. Simulador de Tráfico Urbano & Dijkstra</h3>
+      <p><b>Algoritmia & Complejidad | Java 17 · Grafos Dirigidos · Árboles AVL · Min-Heap</b></p>
       <p>Motor de cálculo de flujo vial que determina en tiempo real la ruta de costo mínimo ante variaciones de congestión dinámica y cierres de avenidas.</p>
       <ul>
-        <li><b>Estructura:</b> Grafos ponderados con listas de adyacencia y pesos dinámicos.</li>
-        <li><b>Algoritmo:</b> Dijkstra optimizado respaldado por árboles AVL y montículos (`PriorityQueue`).</li>
-        <li><b>Diseño:</b> Patrón Facade para coordinar el motor de simulación con la interfaz.</li>
+        <li><b>Estructuras Nativas:</b> Implementaciones zero-dependency de Árboles AVL auto-balanceados y Min-Heap.</li>
+        <li><b>Testing:</b> Pruebas JUnit 5 con rotaciones AVL (LL, RR, LR, RL) y validación en CI headless.</li>
       </ul>
       <p>
         <a href="https://github.com/frankitoromas-tech/simulador-trafico-dijkstra-java">
           <img src="https://img.shields.io/badge/Ver_Código-simulador--dijkstra-8B5CF6?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 7. Interactive Canvas Studio</h3>
+      <p><b>Frontend Engineering | React 19 · HTML5 Canvas API · GPU Compositing · Spring Physics</b></p>
+      <p>Laboratorio interactivo de renderizado visual a 60 FPS con físicas de partículas estocásticas, evasión de puntero basada en máquinas de estado y aceleración por hardware con <code>translate3d</code>.</p>
+      <p>
+        <a href="https://github.com/frankitoromas-tech/interactive-canvas-studio">
+          <img src="https://img.shields.io/badge/Ver_Código-interactive--canvas--studio-EC4899?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ 8. Vanilla Web Micro-Interactions</h3>
+      <p><b>Zero-Dependency UI | Vanilla JavaScript · CSS Custom Properties · 60 FPS Keyframes</b></p>
+      <p>Showcase de microinteracciones táctiles de alto rendimiento implementadas con cero dependencias externas (0 KB bundle overhead) y respuesta de entrada ultra-baja en dispositivos móviles y de escritorio.</p>
+      <p>
+        <a href="https://github.com/frankitoromas-tech/vanilla-web-microinteractions">
+          <img src="https://img.shields.io/badge/Ver_Código-vanilla--web--microinteractions-F59E0B?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
