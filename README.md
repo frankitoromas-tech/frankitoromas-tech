@@ -125,8 +125,8 @@ Estudiante de **7mo ciclo de Ingeniería de Sistemas e Informática** en la **Un
         <li><b>DevOps:</b> Pipeline reproducible multi-servicio orquestado vía Docker Compose.</li>
       </ul>
       <p>
-        <a href="https://github.com/frankitoromas-tech/UTP-Curso-Integrador-I-SIGIR-BCRP">
-          <img src="https://img.shields.io/badge/Ver_Código-SIGIR--BCRP-C8102E?style=flat-square&logo=github&logoColor=white" />
+        <a href="https://github.com/frankitoromas-tech/sigir-bcrp">
+          <img src="https://img.shields.io/badge/Ver_Código-sigir--bcrp-C8102E?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
