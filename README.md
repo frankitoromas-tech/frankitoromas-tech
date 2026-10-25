@@ -12,7 +12,7 @@
 
 <!-- BADGES DE CONTACTO DIRECTO -->
 <p align="center">
-  <a href="https://linkedin.com/in/frankosyni-undefined-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Frankosyni%20(Frank%20Vargas)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/frank-emiliano-vargas-huamán-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Frank%20Vargas%20Huam%C3%A1n-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/51906740940?text=Hola%20Frank,%20revis%C3%A9%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20sobre%20oportunidades%20profesionales"><img src="https://img.shields.io/badge/WhatsApp-(%2B51)_906_740_940-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:frank5vargashuaman@gmail.com"><img src="https://img.shields.io/badge/Email_Principal-frank5vargashuaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Principal" /></a>
   <a href="mailto:frankitoromas@gmail.com"><img src="https://img.shields.io/badge/Email_Secundario-frankitoromas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Secundario" /></a>
@@ -244,7 +244,7 @@ Más allá del backend tradicional, diseño y construyo sistemas autónomos mode
 
 <br/>
 
-<a href="https://linkedin.com/in/frankosyni-undefined-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Conectar_con_Frank-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/frank-emiliano-vargas-huamán-6a010a378/"><img src="https://img.shields.io/badge/LinkedIn-Conectar_con_Frank-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://wa.me/51906740940?text=Hola%20Frank,%20revis%C3%A9%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar"><img src="https://img.shields.io/badge/WhatsApp-Escribir_Directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 &nbsp;
